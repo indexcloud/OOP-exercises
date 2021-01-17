@@ -16,3 +16,5 @@ console.log(myCard.point);
 console.log(myCard.suit);
 
 console.log(myCard.getImageUrl());
+
+export default Card;

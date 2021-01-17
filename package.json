@@ -1,0 +1,20 @@
+{
+	"name": "oop-exercises",
+	"version": "1.0.0",
+	"description": "Given this code:",
+	"main": "Card.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/indexcloud/OOP-exercises.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/indexcloud/OOP-exercises/issues"
+	},
+	"homepage": "https://github.com/indexcloud/OOP-exercises#readme"
+}
